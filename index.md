@@ -12,7 +12,29 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Introduction
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+INTRODUCTION  
+
+Context: 
+
+ArCo - Knowledge Graph of the Italian Cultural Heritage: wit.istc.cnr.it/arco/ 
+
+The ArCo SPARQL endpoint: dati.cultura.gov.it/sparql 
+
+Large Language Models: Gemini and ChatGPT 
+
+Team: 
+
+Alice Montorsi 
+
+Giulia Manenti 
+
+Giulia Marani 
+
+Matilde Ciarrocchi 
+
+Topic: 
+
+Abbazia di Nonantola: a hiddden treasure in the province of Modena  
 
 # Methodology
 
